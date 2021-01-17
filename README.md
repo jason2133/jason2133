@@ -1,4 +1,6 @@
-### Hi there 👋
+### Jason Jaeseung Lee 👋
+##### Student in Statistics and Software Technology & Entrepreneurship Program at Korea University, Seoul.
+##### Currently interested in Mobility, Start-up, Computer Vision, Reinforcement Learning, Space Exploration, and Entrepreneurship.
 
 <!--
 **jason2133/jason2133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
