@@ -5,7 +5,7 @@
 - B.S. Student in Statistics
 - B.E. Student in Software Technology & Entrepreneurship Program
 
-### ★ Currently Interest in..
+### ★ Currently Interested in..
 - Computer Vision
 - Autonomous Driving
 - Space Exploration
