@@ -1,4 +1,4 @@
-### Jason Jaeseung Lee 👋
+## Jason Jaeseung Lee 👋
 
 ### ★ Education
 #### Korea University, Seoul
