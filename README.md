@@ -1,7 +1,7 @@
 ## Jason Jaeseung Lee 👋
 
 ### ★ Education
-#### Korea University, Seoul
+#### 고려대학교 - Korea University, Seoul
 - B.S. Student in Statistics
 - B.E. Student in Software Technology & Entrepreneurship Program
 
