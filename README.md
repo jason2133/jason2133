@@ -2,8 +2,8 @@
 
 ### ★ Education
 #### 고려대학교 - Korea University, Seoul
-- B.S. Student in Statistics
-- B.E. Student in Software Technology & Entrepreneurship Program
+- B.S. Student in [Statistics](https://stat.korea.ac.kr/stat/index.do)
+- B.E. Student in [Software Technology & Entrepreneurship Program](https://info.korea.ac.kr/info/under/sw_intro.do)
 
 ### ★ Currently Interested in..
 - Computer Vision
