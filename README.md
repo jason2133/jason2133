@@ -7,7 +7,7 @@
 
 ### ★ Currently Interested in..
 - Computer Vision
-- Autonomous Driving
+- Aerial Video Data Analysis
 - Space Exploration
 - Entrepreneurship
 
