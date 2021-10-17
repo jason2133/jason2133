@@ -6,17 +6,18 @@
 - B.E. Student in [Software Technology & Entrepreneurship Program](https://info.korea.ac.kr/info/under/sw_intro.do)
 
 ### ★ Currently Interested in..
-- Computer Vision
+- AI Computer Vision
+- Statistical Machine Learning
 - Aerial Video Data Analysis
 - Space Exploration
 - Entrepreneurship
 
+### ★ My Favoirite Quote
+- What we are hoping to do with SpaceX is to push the envelope and **provide a reason for people to be excited and inspired to be human.** - Elon Musk -
+- [Elon Musk - The Real Iron Man](https://www.youtube.com/watch?v=dv7powwD-tQ)
+
 ### ★ Contact
 - jason2133@korea.ac.kr
-
-<!-- ### ★ My Favoirite Quote
-- What we are hoping to do with SpaceX is to push the envelope and **provide a reason for people to be excited and inspired to be human.** - Elon Musk -
-- [Elon Musk - The Real Iron Man](https://www.youtube.com/watch?v=dv7powwD-tQ) -->
 
 <!--
 **jason2133/jason2133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
