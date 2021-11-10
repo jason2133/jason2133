@@ -7,9 +7,9 @@
 
 ### ★ Currently Interested in..
 - AI Computer Vision
+- DevOps / MLOps
+- Back-End Development
 - Statistical Machine Learning
-- Aerial Video Data Analysis
-- Space Exploration
 - Entrepreneurship
 
 ### ★ My Favoirite Quote
