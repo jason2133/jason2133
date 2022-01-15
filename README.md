@@ -7,9 +7,8 @@
 
 ### ★ Currently Interested in..
 - AI Computer Vision
-- MLOps
 - Statistical Machine Learning
-- Back-End Development
+- MLOps
 - Entrepreneurship
 
 ### ★ My Favoirite Quote
