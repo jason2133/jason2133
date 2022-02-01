@@ -28,6 +28,7 @@
     <img src="https://badges.aleen42.com/src/node.svg"/>&nbsp
   <br>
   <br>
+    <img src="https://badges.aleen42.com/src/python.svg"/>&nbsp
     <img src="https://img.shields.io/badge/-PyTorch-000000?logo=PyTorch"/>&nbsp
     <img src="https://img.shields.io/badge/-pandas-150458?logo=pandas"/>&nbsp
     <img src="https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn"/>&nbsp
