@@ -16,18 +16,18 @@
 
 <h3 align="center">📘 Technology Stack 📘</h3>
 <p align="center">
+   <br>
+    <img src="https://badges.aleen42.com/src/python.svg"/>&nbsp
+    <img src="https://img.shields.io/badge/-PyTorch-000000?logo=PyTorch"/>&nbsp
+    <img src="https://img.shields.io/badge/-pandas-150458?logo=pandas"/>&nbsp
+    <img src="https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn"/>&nbsp
+  <br>
   <br>
     <img src="https://img.shields.io/badge/-HTML5-ffffff?logo=HTML5"/>&nbsp
     <img src="https://img.shields.io/badge/-CSS3-1572b6?logo=CSS3"/>&nbsp
     <img src="https://badges.aleen42.com/src/javascript.svg"/>&nbsp
     <img src="https://badges.aleen42.com/src/react.svg"/>&nbsp
     <img src="https://badges.aleen42.com/src/node.svg"/>&nbsp
-  <br>
-  <br>
-    <img src="https://badges.aleen42.com/src/python.svg"/>&nbsp
-    <img src="https://img.shields.io/badge/-PyTorch-000000?logo=PyTorch"/>&nbsp
-    <img src="https://img.shields.io/badge/-pandas-150458?logo=pandas"/>&nbsp
-    <img src="https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn"/>&nbsp
   <br>
   <br>
     <img src="https://img.shields.io/badge/-AWS-ffffff?logo=Amazon"/>&nbsp
