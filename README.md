@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/-PyTorch-000000?logo=PyTorch"/>&nbsp
     <img src="https://img.shields.io/badge/-pandas-150458?logo=pandas"/>&nbsp
     <img src="https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn"/>&nbsp
+   <img src="https://img.shields.io/badge/-R-276DC3?logo=R"/>&nbsp
   <br>
   <br>
     <img src="https://img.shields.io/badge/-HTML5-ffffff?logo=HTML5"/>&nbsp
