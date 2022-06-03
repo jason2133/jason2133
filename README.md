@@ -8,7 +8,7 @@
 ### ★ Currently Interested in..
 - AI Computer Vision
 - Statistical Machine Learning
-- Data Mining
+- MLOps
 - Entrepreneurship
 
 ### ★ Contact
