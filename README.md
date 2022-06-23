@@ -5,9 +5,9 @@
 - B.S. Student in [Statistics](https://stat.korea.ac.kr/stat/index.do)
 - B.E. Student in [Software Technology & Entrepreneurship Program](https://info.korea.ac.kr/info/under/sw_intro.do)
 
-### ★ Currently Interested in..
-- AI Computer Vision
+### ★ I'm Interested in
 - Statistical Machine Learning
+- AI Computer Vision
 - MLOps
 - Entrepreneurship
 
