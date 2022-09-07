@@ -6,8 +6,8 @@
 - B.E. Student in [Software Technology & Entrepreneurship Program](https://info.korea.ac.kr/info/under/sw_intro.do)
 
 ### ★ I'm Interested in
+- Graph Neural Networks
 - Statistical Machine Learning
-- AI Computer Vision
 - MLOps
 - Entrepreneurship
 
