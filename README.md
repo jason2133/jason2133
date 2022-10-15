@@ -1,17 +1,27 @@
-## Jason Jaeseung Lee 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:c0c0c0&height=180&section=header&text=Jason's%20Github%20Page&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling)
 
-### ★ Education
-#### 고려대학교 - Korea University, Seoul
+## 🧑🏻‍💻 Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jason2133&show_icons=true&count_private=true&icon_color=ffffff&title_color=ffffff&text_color=000000&bg_color=c0c0c0" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason2133&layout=compact&icon_color=ffffff&title_color=ffffff&text_color=000000&bg_color=c0c0c0" />
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjason2133&count_bg=%23C0C0C0&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br/>
+
+## ✏️ Education
+### 고려대학교 - Korea University, Seoul
 - B.S. Student in [Statistics](https://stat.korea.ac.kr/stat/index.do)
 - B.E. Student in [Software Technology & Entrepreneurship Program](https://info.korea.ac.kr/info/under/sw_intro.do)
 
-### ★ I'm Interested in
+## 📋  I'm interested in
 - Graph Neural Networks
 - Statistical Machine Learning
 - MLOps
 - Entrepreneurship
 
-### ★ Contact
+## 📌 Contact
 - jason2133@korea.ac.kr
 
 <!-- ### ★ Project
