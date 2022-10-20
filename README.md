@@ -24,17 +24,6 @@
 ## 📌 Contact
 - jason2133@korea.ac.kr
 
-<!-- ### ★ Project
-|No.|Title|Period|Description|Technology Stack|
-|:------:|:------:|:-----:|:-----:|:-----:|
-|1|a|a|a|a|
-|2|a|a|a|a|
-|3||a|a|a|
-|4|자동차 AI|a|a|a|
-|5|알쓸군융 - 알아두면 쓸데있는 군대 금융경제교육 융합 서비스|a|a|a|
-|6|식품 알레르기 필터링 서비스|2018. 06. ~ 2018. 12.|멋쟁이사자처럼 중앙 해커톤 전체 200팀 중 1위 </br> KBS 스페셜 <기계와의 대화법> 방송 출연|HTML, CSS, JavaScript, Ruby, Ruby on Rails|
-|7|고려대학교 선거 로또|2018. 06. ~ 2018. 07.|멋쟁이사자처럼 고려대학교 해커톤|HTML, CSS, JavaScript, Ruby, Ruby on Rails|
- -->
 <h3 align="center">📘 Technology Stack 📘</h3>
 <p align="center">
    <br>
@@ -56,6 +45,8 @@
     <img src="https://img.shields.io/badge/-git-ffffff?logo=git"/>&nbsp
     <img src="https://img.shields.io/badge/-jupyter-ffffff?logo=jupyter"/>&nbsp
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
 
 <!--
 **jason2133/jason2133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
