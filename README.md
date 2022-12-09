@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:c0c0c0&height=180&section=header&text=Jason's%20Github%20Page&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:c0c0c0&height=180&section=header&text=Jason's%20Github%20Page&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling) -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)  
 
 <!-- ## 🧑🏻‍💻 Github Stats
 
