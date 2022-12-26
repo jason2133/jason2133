@@ -14,8 +14,11 @@
 
 ## ✏️ Education
 ### 고려대학교 - Korea University, Seoul
-- B.S. Student in [Statistics](https://stat.korea.ac.kr/stat/index.do)
-- B.E. Student in [Software Technology & Entrepreneurship Program](https://info.korea.ac.kr/info/under/sw_intro.do)
+- M.S. Student in [Electrical Engineering](https://ee.korea.ac.kr)
+
+### 고려대학교 - Korea University, Seoul
+- B.S. in [Statistics](https://stat.korea.ac.kr/stat/index.do)
+- B.E. in [Software Technology & Entrepreneurship Program](https://info.korea.ac.kr/info/under/sw_intro.do)
 
 ## 📋  I'm interested in
 - Statistical Machine Learning
