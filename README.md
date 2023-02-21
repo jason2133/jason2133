@@ -14,7 +14,7 @@
 
 ## ✏️ Education
 ### 고려대학교 - Korea University, Seoul
-- M.S. Student in [Electrical Engineering](https://ee.korea.ac.kr)
+- M.S. Student in [Electrical and Computer Engineering](https://ee.korea.ac.kr)
 - AI Researcher at [Multimedia Information Lab](https://mil.korea.ac.kr)
 
 ### 고려대학교 - Korea University, Seoul
