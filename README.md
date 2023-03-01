@@ -25,7 +25,7 @@
 - Statistical Machine Learning
 - Graph Neural Networks
 - eXplainable AI
-- Time Series Data Analysis
+- Time Series Forecasting
 
 ## 📌 Contact
 - jason2133@korea.ac.kr
