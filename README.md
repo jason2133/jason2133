@@ -24,8 +24,7 @@
 ## 📋  I'm interested in
 - Statistical Machine Learning
 - Graph Neural Networks
-- eXplainable AI
-- Time Series Forecasting
+- Time Series Analysis
 
 ## 📌 Contact
 - jason2133@korea.ac.kr
