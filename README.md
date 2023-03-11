@@ -13,18 +13,18 @@
 <br/> -->
 
 ## ✏️ Education
-### 고려대학교 - Korea University, Seoul
+### Korea University, Seoul, Korea
 - M.S. Student in [Electrical Engineering](https://ee.korea.ac.kr)
 - AI Researcher at [Multimedia Information Lab](https://mil.korea.ac.kr)
 
-### 고려대학교 - Korea University, Seoul
+### Korea University, Seoul, Korea
 - B.S. in [Statistics](https://stat.korea.ac.kr/stat/index.do)
 - B.E. in [Software Technology & Entrepreneurship Program](https://info.korea.ac.kr/info/under/sw_intro.do)
 
 ## 📋  I'm interested in
 - Statistical Machine Learning
 - Graph Neural Networks
-- Time Series Analysis
+- Time Series Forecasting
 
 ## 📌 Contact
 - jason2133@korea.ac.kr
