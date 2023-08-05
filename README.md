@@ -25,6 +25,7 @@
 - Statistical Machine Learning
 - Graph Neural Networks
 - Time Series Forecasting
+- Educational Data Mining
 
 ## 📌 Contact
 - jason2133@korea.ac.kr
