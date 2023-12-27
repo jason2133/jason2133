@@ -30,6 +30,9 @@
 ## 📌 Contact
 - jason2133@korea.ac.kr
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jason2133)](https://solved.ac/jason2133/)
+
 <h3 align="center">📘 Technology Stack 📘</h3>
 <p align="center">
    <br>
