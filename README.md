@@ -24,6 +24,7 @@
 ## 📋  I'm interested in
 - Large Language Models
 - Graph Neural Networks
+- Time-Series Forecasting
 - Educational Data Mining
 
 ## 📌 Contact
