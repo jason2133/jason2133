@@ -22,8 +22,8 @@
 - B.E. in [Software Technology & Entrepreneurship Program](https://info.korea.ac.kr/info/under/sw_intro.do)
 
 ## 📋  I'm interested in
-- Large Language Models
 - Graph Neural Networks
+- Large Language Models
 - Time-Series Forecasting
 - Educational Data Mining
 
