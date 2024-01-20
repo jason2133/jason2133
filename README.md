@@ -26,8 +26,6 @@
 
 ## 📌 Contact
 - jason2133@korea.ac.kr
-- [Personal Website](https://jason2133.github.io/)
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jason2133)](https://solved.ac/jason2133/)
 
