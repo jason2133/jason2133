@@ -28,6 +28,7 @@
 - jason2133@korea.ac.kr
 - Personal Website: <a href="https://jason2133.github.io/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jasonlee2133)](https://solved.ac/jasonlee2133)
 
 <h3 align="center">📘 Technology Stack 📘</h3>
 <p align="center">
