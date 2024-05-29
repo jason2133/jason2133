@@ -22,7 +22,6 @@
 - Graph Neural Networks
 - Large Language Models
 - Time-Series Forecasting
-- Educational Data Mining
 
 ## 📌 Contact
 - jason2133@korea.ac.kr
