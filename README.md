@@ -19,9 +19,10 @@
 - B.E. in [Software Technology & Entrepreneurship Program](https://info.korea.ac.kr/info/under/sw_intro.do)
 
 ## 📋  I'm interested in
-- Graph Neural Networks
+- Multivariate Time-Series Forecasting and Anomaly Detection
 - Large Language Models
-- Time-Series Forecasting
+- Graph Neural Networks
+- [Formula 1 (F1) Data Analysis](https://www.youtube.com/watch?v=ZBFCjcDKofc)
 
 ## 📌 Contact
 - jason2133@korea.ac.kr
