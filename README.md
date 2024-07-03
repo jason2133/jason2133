@@ -22,7 +22,7 @@
 - Multivariate Time-Series Forecasting and Anomaly Detection
 - Large Language Models
 - Graph Neural Networks
-- [Formula 1 (F1) Data Analysis](https://www.youtube.com/watch?v=ZBFCjcDKofc)
+- <b>[Formula 1 (F1) Data Analysis](https://www.youtube.com/watch?v=ZBFCjcDKofc) (Look my github profile image! Guess who?)</b>
 
 ## 📌 Contact
 - jason2133@korea.ac.kr
