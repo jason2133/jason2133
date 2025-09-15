@@ -12,7 +12,6 @@
 ## ✏️ Education
 ### Korea University, Seoul, Korea
 - M.S. in [Electrical and Computer Engineering](https://ee.korea.ac.kr)
-- AI Researcher at [Multimedia Information Lab](https://mil.korea.ac.kr)
 
 ### Korea University, Seoul, Korea
 - B.S. in [Statistics](https://stat.korea.ac.kr/stat/index.do)
@@ -25,6 +24,7 @@
 
 ## 📌 Contact
 - jason2133@korea.ac.kr
+- [Google Scholar](https://scholar.google.com/citations?hl=ko&user=ryThTMMAAAAJ&view_op=list_works)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jasonlee2133)](https://solved.ac/jasonlee2133)
 
