@@ -9,6 +9,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjason2133&count_bg=%23C0C0C0&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br/> -->
+## 🐯 Careers
+### Samsung Electronics, Hwaseong, Korea
+- Research Engineer at Samsung AI Center
+
 ## ✏️ Education
 ### Korea University, Seoul, Korea
 - M.S. in [Electrical and Computer Engineering](https://ee.korea.ac.kr)
