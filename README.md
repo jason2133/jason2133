@@ -14,10 +14,10 @@
 - Research Engineer at Samsung AI Center
 
 ### NAVER Cloud, Seongnam, Korea
-- Intern at Hyperscale AI Planning Team
+- Intern
 
 ### Hyundai MOBIS, Seoul, Korea
-- Intern at Data Science Team
+- Intern
 
 ## ✏️ Education
 ### Korea University, Seoul, Korea
