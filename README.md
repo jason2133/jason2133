@@ -11,7 +11,7 @@
 <br/> -->
 ## 💻 Work Experience
 ### Samsung Electronics, Hwaseong, Korea
-- Research Engineer at Samsung AI Center
+- Research Engineer at Samsung Electronics AI Center
 
 ### NAVER Cloud, Seongnam, Korea
 - Intern
