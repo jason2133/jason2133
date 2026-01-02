@@ -28,8 +28,9 @@
 - B.E. in [Software Technology & Entrepreneurship Program](https://info.korea.ac.kr/info/under/sw_intro.do)
 
 ## 📋  I'm interested in
-- Large Language Model
-- Multivariate Time-Series Forecasting and Anomaly Detection
+- Large Language Model Agent (LLM Agent)
+- Retrieval-Augmented Generation (RAG)
+- AI-based Prognostics and Health Management (PHM)
 - <b>[Formula 1 (F1) Data Analysis](https://www.youtube.com/watch?v=ZBFCjcDKofc) (Look my github profile image! Guess who?)</b>
 
 ## 📌 Contact
