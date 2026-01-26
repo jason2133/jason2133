@@ -42,6 +42,11 @@
 <h3 align="center">📘 Technology Stack 📘</h3>
 <p align="center">
    <br>
+   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+   <br>
+   <br>
     <img src="https://badges.aleen42.com/src/python.svg"/>&nbsp
     <img src="https://img.shields.io/badge/-PyTorch-000000?logo=PyTorch"/>&nbsp
     <img src="https://img.shields.io/badge/-pandas-150458?logo=pandas"/>&nbsp
